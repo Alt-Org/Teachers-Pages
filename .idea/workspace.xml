@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative.">
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/workflows/ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teachers-pages/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/teachers-pages/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teachers-pages/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/teachers-pages/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739351034380</updated>
       <workItem from="1739351035734" duration="336000" />
-      <workItem from="1739352188484" duration="791000" />
+      <workItem from="1739352188484" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="Add contribution guidelines, templates, and project metadata&#10;&#10;This commit introduces community standards and documentation to improve collaboration on the Teachers-Pages project. Includes a Contributor Covenant Code of Conduct, a contributing guide, various issue and pull request templates, a CODEOWNERS file, and updates to `package.json` for project metadata. These updates aim to enhance project maintainability and contributor experience.">
       <option name="closed" value="true" />
@@ -96,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739352781087</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add 'jest' and 'storybook' dependencies to package-lock&#10;&#10;This commit adds 'jest' and 'storybook' as new dependencies in the `package-lock.json`. These additions are likely intended for testing and storyboarding purposes, enhancing the development experience. Other changes reflect updates to nested dependencies required to support these additions.">
+      <option name="closed" value="true" />
+      <created>1739353139338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739353139338</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project.">
+      <option name="closed" value="true" />
+      <created>1739353159069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739353159069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +134,8 @@
     <MESSAGE value="Add CI workflow, contributor guidelines, and project templates&#10;&#10;This commit introduces a GitHub Actions CI workflow for building, testing, and deployment. It also adds community files, including a Code of Conduct, contributing guide, CODEOWNERS, and standardized issue/PR templates, to streamline collaboration and improve project documentation." />
     <MESSAGE value="Add contribution guidelines, templates, and project metadata&#10;&#10;This commit introduces community standards and documentation to improve collaboration on the Teachers-Pages project. Includes a Contributor Covenant Code of Conduct, a contributing guide, various issue and pull request templates, a CODEOWNERS file, and updates to `package.json` for project metadata. These updates aim to enhance project maintainability and contributor experience." />
     <MESSAGE value="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative." />
+    <MESSAGE value="Add 'jest' and 'storybook' dependencies to package-lock&#10;&#10;This commit adds 'jest' and 'storybook' as new dependencies in the `package-lock.json`. These additions are likely intended for testing and storyboarding purposes, enhancing the development experience. Other changes reflect updates to nested dependencies required to support these additions." />
+    <MESSAGE value="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project." />
   </component>
 </project>
