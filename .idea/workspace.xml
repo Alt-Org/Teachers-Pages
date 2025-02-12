@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="" />
+    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/CODEOWNERS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/bug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/chore.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/dublication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/empty.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/enhancement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/feature.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/help-wanted.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/meeting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/refactor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/PULL_REQUEST_TEMPLATE.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachers-pages/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/teachers-pages/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,30 +32,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jonroi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jonroi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Alt-Org/Teachers-Pages.git",
-    "accountId": "4adca380-b649-43c7-99c5-123c34bc8315"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alt-Org/Teachers-Pages.git&quot;,
+    &quot;accountId&quot;: &quot;4adca380-b649-43c7-99c5-123c34bc8315&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2svzrP19jpQVXXGQADOIywPvO35" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\jonir\\Documents\\GitHub\\Teachers-Pages\\teachers-pages\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739351034380</updated>
       <workItem from="1739351035734" duration="336000" />
+      <workItem from="1739352188484" duration="424000" />
     </task>
     <servers />
   </component>
