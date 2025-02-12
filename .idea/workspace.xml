@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project." />
+    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="Add cache and build info files to .next directory&#10;&#10;These files were generated to store eslint cache, server component info, and TypeScript build metadata. They support faster builds and improved development performance." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739351034380</updated>
       <workItem from="1739351035734" duration="336000" />
-      <workItem from="1739352188484" duration="1120000" />
+      <workItem from="1739352188484" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="Add contribution guidelines, templates, and project metadata&#10;&#10;This commit introduces community standards and documentation to improve collaboration on the Teachers-Pages project. Includes a Contributor Covenant Code of Conduct, a contributing guide, various issue and pull request templates, a CODEOWNERS file, and updates to `package.json` for project metadata. These updates aim to enhance project maintainability and contributor experience.">
       <option name="closed" value="true" />
@@ -113,7 +113,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739353159069</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These changes ensure consistent IDE settings and streamline development workflows.">
+      <option name="closed" value="true" />
+      <created>1739353445622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739353445622</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add .gitattributes file for consistent line endings&#10;&#10;This ensures consistent handling of line endings across different file types and operating systems. It enforces LF for most files while allowing CRLF for batch scripts. This improves collaboration and prevents potential line-ending issues.">
+      <option name="closed" value="true" />
+      <created>1739353576825</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739353576825</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add cache and build info files to .next directory&#10;&#10;These files were generated to store eslint cache, server component info, and TypeScript build metadata. They support faster builds and improved development performance.">
+      <option name="closed" value="true" />
+      <created>1739353611384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739353611384</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +160,10 @@
     <MESSAGE value="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative." />
     <MESSAGE value="Add 'jest' and 'storybook' dependencies to package-lock&#10;&#10;This commit adds 'jest' and 'storybook' as new dependencies in the `package-lock.json`. These additions are likely intended for testing and storyboarding purposes, enhancing the development experience. Other changes reflect updates to nested dependencies required to support these additions." />
     <MESSAGE value="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These files support consistent IDE settings across the project." />
+    <MESSAGE value="Add IDE configuration files for inspections and VCS mappings&#10;&#10;Introduce default inspection profile enabling ESLint with warnings. Configure VCS mappings to use Git as the version control system. These changes ensure consistent IDE settings and streamline development workflows." />
+    <MESSAGE value="Add .gitattributes file for consistent line endings&#10;&#10;This ensures consistent handling of line endings across different file types and operating systems. It enforces LF for most files while allowing CRLF for batch scripts. This improves collaboration and prevents potential line-ending issues." />
+    <MESSAGE value="&quot;Update .gitignore to refine ignored files and directories&#10;&#10;Simplified and reorganized the .gitignore file to improve readability and maintain relevant exclusions. Removed outdated comments and entries, added new ones for logs, build artifacts, and editor configurations while retaining critical exceptions.&quot;" />
+    <MESSAGE value="Add cache and build info files to .next directory&#10;&#10;These files were generated to store eslint cache, server component info, and TypeScript build metadata. They support faster builds and improved development performance." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add cache and build info files to .next directory&#10;&#10;These files were generated to store eslint cache, server component info, and TypeScript build metadata. They support faster builds and improved development performance." />
   </component>
 </project>
