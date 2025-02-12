@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/CODEOWNERS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/bug.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/chore.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/documentation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/dublication.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/empty.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/enhancement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/feature.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/help-wanted.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/meeting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/ISSUE_TEMPLATE/refactor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachers-pages/.github/PULL_REQUEST_TEMPLATE.MD" afterDir="false" />
+    <list default="true" id="633d0e21-663b-4b1c-b94b-4ee48bf094be" name="Changes" comment="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative.">
       <change afterPath="$PROJECT_DIR$/teachers-pages/.github/workflows/ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachers-pages/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/teachers-pages/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teachers-pages/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/teachers-pages/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,8 +78,25 @@
       <option name="presentableId" value="Default" />
       <updated>1739351034380</updated>
       <workItem from="1739351035734" duration="336000" />
-      <workItem from="1739352188484" duration="424000" />
+      <workItem from="1739352188484" duration="791000" />
     </task>
+    <task id="LOCAL-00001" summary="Add contribution guidelines, templates, and project metadata&#10;&#10;This commit introduces community standards and documentation to improve collaboration on the Teachers-Pages project. Includes a Contributor Covenant Code of Conduct, a contributing guide, various issue and pull request templates, a CODEOWNERS file, and updates to `package.json` for project metadata. These updates aim to enhance project maintainability and contributor experience.">
+      <option name="closed" value="true" />
+      <created>1739352762605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739352762605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative.">
+      <option name="closed" value="true" />
+      <created>1739352781087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739352781087</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +112,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add CI workflow, contributor guidelines, and project templates&#10;&#10;This commit introduces a GitHub Actions CI workflow for building, testing, and deployment. It also adds community files, including a Code of Conduct, contributing guide, CODEOWNERS, and standardized issue/PR templates, to streamline collaboration and improve project documentation." />
+    <MESSAGE value="Add contribution guidelines, templates, and project metadata&#10;&#10;This commit introduces community standards and documentation to improve collaboration on the Teachers-Pages project. Includes a Contributor Covenant Code of Conduct, a contributing guide, various issue and pull request templates, a CODEOWNERS file, and updates to `package.json` for project metadata. These updates aim to enhance project maintainability and contributor experience." />
+    <MESSAGE value="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README with Altzone branding and detailed resources&#10;&#10;Revised the README to include Altzone branding, an introduction to the project, and links to key resources like the project wiki and contributor information. This improves clarity, highlights contributor efforts, and aligns the project with the broader Altzone initiative." />
   </component>
 </project>
